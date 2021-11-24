@@ -13,4 +13,4 @@ Jesús Flores Bibiano A01327143
 
  ## Donde encontrar los archivos
  
- Los datos, imagenes y codigo se encontraran en las branches anexas a esta segun su tipo
+ Los datos, imagenes y codigo se encontraran ordenadas en las branches anexas a esta segun su tipo
