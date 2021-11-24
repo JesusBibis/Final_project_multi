@@ -1,7 +1,7 @@
 # Final_project_multi
 
 ## Profesor 
-Emmanuel Torres Rios
+Dr. Emmanuel Torres Rios
 
 ## Integrantes
 
